@@ -16,7 +16,7 @@ AliveDesign
 
 ## Business Representative
 
-Shigeo Suita
+Disclosed upon request without delay
 
 ## Business Address
 
@@ -26,13 +26,13 @@ Dai-2 Kyoto Building 402, 227 Daikoku-cho, Shichijo-dori Aburanokoji-higashiiru,
 
 ## Phone Number
 
-+81-90-6912-2740
+Disclosed upon request without delay
 
 *Please contact us via email.
 
 ## Email Address
 
-s-suita@alivedesign.jp
+info@alivedesign.jp
 
 ## Pricing
 
