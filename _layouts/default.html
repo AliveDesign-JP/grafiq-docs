@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'en' }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+</head>
+<body>
+
+    <!-- Navigation -->
+    <nav class="site-nav">
+        <div class="nav-inner">
+            <a href="{{ '/' | relative_url }}" class="nav-brand">
+                <span>Grafiq</span>
+            </a>
+            <div class="nav-links">
+                <a href="{{ '/support-en' | relative_url }}">Support</a>
+                <a href="{{ '/' | relative_url }}">EN</a>
+                <a href="{{ '/index-ja' | relative_url }}">JA</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Content -->
+    <main class="legal-content">
+        {{ content }}
+    </main>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="footer-inner">
+            <div class="footer-links">
+                <a href="{{ '/privacy-policy-en' | relative_url }}">Privacy Policy</a>
+                <a href="{{ '/terms-of-service-en' | relative_url }}">Terms of Service</a>
+                <a href="{{ '/support-en' | relative_url }}">Support</a>
+                <a href="{{ '/tokushoho-en' | relative_url }}">Commercial Transactions</a>
+            </div>
+            <div class="footer-contact">
+                <a href="mailto:s-suita@alivedesign.jp">s-suita@alivedesign.jp</a>
+            </div>
+            <div class="footer-copyright">
+                &copy; 2026 Alive Design. All rights reserved.
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
