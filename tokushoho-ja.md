@@ -4,8 +4,8 @@ title: 特定商取引法に基づく表記 - Grafiq
 ---
 
 <div class="page-nav">
-  <a href="index-ja">ホーム</a> &rsaquo; 特定商取引法に基づく表記
-  &nbsp;|&nbsp; <a href="tokushoho-en">English</a>
+  <a href="/grafiq-docs/index-ja/">ホーム</a> &rsaquo; 特定商取引法に基づく表記
+  &nbsp;|&nbsp; <a href="/grafiq-docs/tokushoho-en/">English</a>
 </div>
 
 # 特定商取引法に基づく表記
@@ -66,8 +66,8 @@ Apple App Storeでのアプリ内課金による決済
 ---
 
 <div class="page-footer">
-  <a href="index-ja">ホーム</a>
-  <a href="tokushoho-en">English Version</a>
-  <a href="privacy-policy-ja">プライバシーポリシー</a>
-  <a href="terms-of-service-ja">利用規約</a>
+  <a href="/grafiq-docs/index-ja/">ホーム</a>
+  <a href="/grafiq-docs/tokushoho-en/">English Version</a>
+  <a href="/grafiq-docs/privacy-policy-ja/">プライバシーポリシー</a>
+  <a href="/grafiq-docs/terms-of-service-ja/">利用規約</a>
 </div>
