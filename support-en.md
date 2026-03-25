@@ -48,7 +48,7 @@ For questions, feedback, or bug reports, please contact us at:
 | Data Points per Series | Up to 30 | Unlimited |
 | Series per Graph | 1 | Unlimited |
 | Technical Indicators | Basic (1 each) | All types, multiple |
-| HealthKit | Body weight only | All 12 data types |
+| HealthKit | 6 basics (weight, steps, calories, heart rate, sleep, exercise) | All 150+ types (nutrition, blood pressure, all workouts, etc.) |
 | iCloud Sync | Included | Included |
 | Widgets | Included | Included |
 | Image Export | Included | Included |
