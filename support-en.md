@@ -29,15 +29,14 @@ For questions, feedback, or bug reports, please contact us at:
 
 ### Key Features
 
-- **7 Chart Types**: Line, bar, pie, scatter, area, radar, and horizontal bar charts
+- **5 Chart Types**: Line, bar, pie, scatter, and area charts
 - **Multiple Series**: Overlay multiple data series on a single graph (Pro)
 - **Technical Indicators**: SMA, EMA, trend lines, max/min markers for data analysis
-- **Scatter Correlation**: Plot two series against each other and calculate correlation coefficients
 - **HealthKit Integration**: Import health data (body weight, heart rate, steps, etc.) directly from Apple Health (iPhone only, read-only)
-- **iCloud Sync**: Access your graphs on all your devices — iPhone and Mac (Pro)
-- **Mac Support**: Native Mac experience with 3-pane layout via Mac Catalyst
-- **Home Screen Widgets**: View your latest graph data at a glance (Pro, iPhone only)
-- **Image Export**: Save your graphs as images for sharing (Pro)
+- **iCloud Sync**: Access your graphs on all your devices — iPhone and Mac
+- **Mac Support**: Native SwiftUI macOS app with 3-pane layout
+- **Home Screen Widgets**: Small, Medium, and Large sizes with dashboard mode
+- **Image Export**: Save your graphs as images for sharing
 - **Dual Y-Axis**: Display series with different scales on the same graph (Pro)
 
 ### Pricing Plans
@@ -45,14 +44,14 @@ For questions, feedback, or bug reports, please contact us at:
 | Feature | Free | Pro ($3.99 one-time) |
 |---------|------|----------------------|
 | Graphs | Up to 3 | Unlimited |
-| Chart Types | Line, bar, pie | All 7 types |
+| Chart Types | Line, bar, pie | All 5 types |
 | Data Points per Series | Up to 30 | Unlimited |
 | Series per Graph | 1 | Unlimited |
 | Technical Indicators | Basic (1 each) | All types, multiple |
-| HealthKit | Body weight only | All 8 data types |
-| iCloud Sync + Mac | - | Included |
-| Widgets | - | Medium + Large |
-| Image Export | - | Included |
+| HealthKit | Body weight only | All 12 data types |
+| iCloud Sync | Included | Included |
+| Widgets | Included | Included |
+| Image Export | Included | Included |
 
 ---
 
@@ -60,11 +59,11 @@ For questions, feedback, or bug reports, please contact us at:
 
 ### Q1. What platforms are supported?
 
-**A.** Grafiq supports iPhone (iOS 17.0 or later) and Mac (macOS 14.0 Sonoma or later via Mac Catalyst).
+**A.** Grafiq supports iPhone (iOS 17.0 or later) and Mac (macOS 14.0 Sonoma or later).
 
 ### Q2. What can I do with the free version?
 
-**A.** The free version allows you to create up to 3 graphs with line, bar, and pie chart types. Each graph supports 1 series with up to 30 data points. Basic technical indicators and HealthKit body weight import are included for free.
+**A.** The free version allows you to create up to 3 graphs with line, bar, and pie chart types. Each graph supports 1 series with up to 30 data points. Basic technical indicators and HealthKit body weight import are included for free. iCloud sync, widgets, and image export are also available for free.
 
 ### Q3. Is Grafiq Pro a subscription?
 
@@ -72,11 +71,11 @@ For questions, feedback, or bug reports, please contact us at:
 
 ### Q4. Can I back up my data?
 
-**A.** Yes. Pro users can sync data via iCloud, which serves as an automatic backup across devices. You can also export individual graphs as images. All data is stored locally on your device via SwiftData.
+**A.** Yes. Your data is automatically backed up via iCloud (available to both free and Pro users). You can also export individual graphs as images. All data is stored locally on your device via SwiftData.
 
 ### Q5. How does HealthKit integration work?
 
-**A.** Grafiq can read health data from Apple Health with your permission. This is read-only — the app never writes to or modifies your health records. Free users can import body weight data; Pro users can access all 8 supported health data types (body weight, height, BMI, heart rate, blood pressure, blood oxygen, steps, active energy).
+**A.** Grafiq can read health data from Apple Health with your permission. This is read-only — the app never writes to or modifies your health records. Free users can import body weight data; Pro users can access all 12 supported health data types: weight, steps, walking distance, active calories, heart rate, body fat percentage, resting heart rate, VO₂ Max, and workouts (duration, calories, distance, count).
 
 ### Q6. Does Grafiq collect my data or show ads?
 
@@ -84,19 +83,19 @@ For questions, feedback, or bug reports, please contact us at:
 
 ### Q7. How does iCloud sync work?
 
-**A.** iCloud sync is available for Pro users. When enabled, your graphs are automatically synced across all devices signed in with the same Apple ID. Data is stored in Apple's CloudKit Private Database, which only you can access. To enable sync, make sure iCloud is turned on in your device settings.
+**A.** iCloud sync is available for both free and Pro users. Your graphs are automatically synced across all devices signed in with the same Apple ID. Data is stored in Apple's CloudKit Private Database, which only you can access. To enable sync, make sure iCloud is turned on in your device settings.
 
 ### Q8. Can I use Grafiq on Mac?
 
-**A.** Yes. Grafiq runs natively on Mac (macOS 14.0 or later) via Mac Catalyst. The Mac version features a 3-pane layout optimized for larger screens. iCloud sync (Pro) keeps your data in sync between iPhone and Mac.
+**A.** Yes. Grafiq is a native SwiftUI macOS app that runs on Mac (macOS 14.0 or later). The Mac version features a 3-pane layout optimized for larger screens. iCloud sync keeps your data in sync between iPhone and Mac.
 
-### Q9. What is scatter correlation analysis?
+### Q9. What is the scatter chart?
 
-**A.** You can select two data series and plot them as a scatter chart to visualize their relationship. Grafiq calculates the correlation coefficient (r value), helping you discover patterns such as whether exercise frequency correlates with sleep quality.
+**A.** You can select two data series and plot them as a scatter chart to visualize their relationship. This helps you discover patterns, such as whether exercise frequency is related to sleep quality.
 
 ### Q10. I lost my data after reinstalling the app
 
-**A.** If you had iCloud sync enabled (Pro), your data should automatically restore when you sign in with the same Apple ID. If you were using the free version without iCloud sync, data stored only on the device cannot be recovered after uninstallation. We recommend upgrading to Pro for automatic cloud backup.
+**A.** If you had iCloud sync enabled, your data should automatically restore when you sign in with the same Apple ID. If iCloud was disabled, data stored only on the device cannot be recovered after uninstallation. We recommend enabling iCloud sync to keep your data safe.
 
 ---
 
@@ -104,35 +103,33 @@ For questions, feedback, or bug reports, please contact us at:
 
 ### Create a Graph
 
-1. Tap the "+" button on the home screen
+1. Tap the "+" button on the Graphs tab
 2. Enter a graph name
-3. Choose a chart type
-4. Configure series (name, color, Y-axis range)
-5. Tap "Save"
+3. Tap "Create" (a default series is automatically created)
 
 ### Add Data Points
 
-1. Open a graph from the home screen
-2. Tap the "+" button to add a new data point
-3. Enter the date, value, and optional note
-4. Tap "Save"
+1. Open the graph detail screen
+2. Tap the "Add Data" button
+3. Enter the date (or label), value, and optional note
+4. Tap "Add"
 
 ### Import HealthKit Data
 
-1. Create a new graph or series
-2. Select "HealthKit" as the data source
+1. Create a new data source in the Data tab
+2. Select "HealthKit" as the source
 3. Choose the health data type (e.g., body weight)
 4. Grant HealthKit permission when prompted
 5. Data is automatically imported and updated
 
-### Add a Widget (Pro)
+### Add a Widget
 
 1. Long press on your iPhone home screen
 2. Tap the "+" button at the top left
 3. Search for "Grafiq"
-4. Choose Medium or Large size
+4. Choose Small, Medium, or Large size
 5. Tap "Add Widget"
-6. Long press the widget to select which graph to display
+6. Long press the widget to configure display graph and display mode
 
 ---
 
