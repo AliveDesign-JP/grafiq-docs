@@ -19,7 +19,7 @@ Support page for "Grafiq" - the personal graph maker app.
 
 For questions, feedback, or bug reports, please contact us at:
 
-**Email**: [s-suita@alivedesign.jp](mailto:s-suita@alivedesign.jp)
+**Email**: [info@alivedesign.jp](mailto:info@alivedesign.jp)
 
 ---
 
