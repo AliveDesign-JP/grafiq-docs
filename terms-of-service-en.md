@@ -4,8 +4,8 @@ title: Terms of Service - Grafiq
 ---
 
 <div class="page-nav">
-  <a href="./">Home</a> &rsaquo; Terms of Service
-  &nbsp;|&nbsp; <a href="terms-of-service-ja">日本語</a>
+  <a href="/grafiq-docs/">Home</a> &rsaquo; Terms of Service
+  &nbsp;|&nbsp; <a href="/grafiq-docs/terms-of-service-ja/">日本語</a>
 </div>
 
 # Terms of Service
@@ -132,8 +132,8 @@ If you have any questions about these Terms, please contact us at:
 ---
 
 <div class="page-footer">
-  <a href="./">Home</a>
-  <a href="terms-of-service-ja">日本語版</a>
-  <a href="privacy-policy-en">Privacy Policy</a>
-  <a href="support-en">Support</a>
+  <a href="/grafiq-docs/">Home</a>
+  <a href="/grafiq-docs/terms-of-service-ja/">日本語版</a>
+  <a href="/grafiq-docs/privacy-policy-en/">Privacy Policy</a>
+  <a href="/grafiq-docs/support-en/">Support</a>
 </div>
