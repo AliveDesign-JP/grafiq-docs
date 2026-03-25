@@ -5,8 +5,8 @@ lang: ja
 ---
 
 <div class="page-nav">
-  <a href="index-ja">ホーム</a> &rsaquo; サポート
-  &nbsp;|&nbsp; <a href="support-en">English</a>
+  <a href="/grafiq-docs/index-ja/">ホーム</a> &rsaquo; サポート
+  &nbsp;|&nbsp; <a href="/grafiq-docs/support-en/">English</a>
 </div>
 
 # Grafiq サポート
@@ -145,17 +145,17 @@ lang: ja
 
 ## 関連リンク
 
-- [プライバシーポリシー](privacy-policy-ja)
-- [利用規約](terms-of-service-ja)
-- [特定商取引法に基づく表記](tokushoho-ja)
+- [プライバシーポリシー](/grafiq-docs/privacy-policy-ja/)
+- [利用規約](/grafiq-docs/terms-of-service-ja/)
+- [特定商取引法に基づく表記](/grafiq-docs/tokushoho-ja/)
 
 ---
 
 *最終更新: 2026年3月*
 
 <div class="page-footer">
-  <a href="index-ja">ホーム</a>
-  <a href="support-en">English Version</a>
-  <a href="privacy-policy-ja">プライバシーポリシー</a>
-  <a href="terms-of-service-ja">利用規約</a>
+  <a href="/grafiq-docs/index-ja/">ホーム</a>
+  <a href="/grafiq-docs/support-en/">English Version</a>
+  <a href="/grafiq-docs/privacy-policy-ja/">プライバシーポリシー</a>
+  <a href="/grafiq-docs/terms-of-service-ja/">利用規約</a>
 </div>
