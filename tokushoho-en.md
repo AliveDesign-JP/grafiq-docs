@@ -4,8 +4,8 @@ title: Specified Commercial Transactions Act - Grafiq
 ---
 
 <div class="page-nav">
-  <a href="./">Home</a> &rsaquo; Commercial Transactions
-  &nbsp;|&nbsp; <a href="tokushoho-ja">日本語</a>
+  <a href="/grafiq-docs/">Home</a> &rsaquo; Commercial Transactions
+  &nbsp;|&nbsp; <a href="/grafiq-docs/tokushoho-ja/">日本語</a>
 </div>
 
 # Specified Commercial Transactions Act Disclosure
@@ -66,8 +66,8 @@ Due to the nature of digital content, we cannot accept returns or cancellations 
 ---
 
 <div class="page-footer">
-  <a href="./">Home</a>
-  <a href="tokushoho-ja">日本語版</a>
-  <a href="privacy-policy-en">Privacy Policy</a>
-  <a href="terms-of-service-en">Terms of Service</a>
+  <a href="/grafiq-docs/">Home</a>
+  <a href="/grafiq-docs/tokushoho-ja/">日本語版</a>
+  <a href="/grafiq-docs/privacy-policy-en/">Privacy Policy</a>
+  <a href="/grafiq-docs/terms-of-service-en/">Terms of Service</a>
 </div>
