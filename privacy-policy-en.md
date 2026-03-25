@@ -4,8 +4,8 @@ title: Privacy Policy - Grafiq
 ---
 
 <div class="page-nav">
-  <a href="./">Home</a> &rsaquo; Privacy Policy
-  &nbsp;|&nbsp; <a href="privacy-policy-ja">日本語</a>
+  <a href="/grafiq-docs/">Home</a> &rsaquo; Privacy Policy
+  &nbsp;|&nbsp; <a href="/grafiq-docs/privacy-policy-ja/">日本語</a>
 </div>
 
 # Privacy Policy
@@ -117,8 +117,8 @@ If you have any questions about this Privacy Policy, please contact us at:
 ---
 
 <div class="page-footer">
-  <a href="./">Home</a>
-  <a href="privacy-policy-ja">日本語版</a>
-  <a href="terms-of-service-en">Terms of Service</a>
-  <a href="support-en">Support</a>
+  <a href="/grafiq-docs/">Home</a>
+  <a href="/grafiq-docs/privacy-policy-ja/">日本語版</a>
+  <a href="/grafiq-docs/terms-of-service-en/">Terms of Service</a>
+  <a href="/grafiq-docs/support-en/">Support</a>
 </div>
