@@ -5,8 +5,8 @@ lang: en
 ---
 
 <div class="page-nav">
-  <a href="./">Home</a> &rsaquo; Support
-  &nbsp;|&nbsp; <a href="support-ja">日本語</a>
+  <a href="/grafiq-docs/">Home</a> &rsaquo; Support
+  &nbsp;|&nbsp; <a href="/grafiq-docs/support-ja/">日本語</a>
 </div>
 
 # Grafiq Support
@@ -145,17 +145,17 @@ For questions, feedback, or bug reports, please contact us at:
 
 ## Related Links
 
-- [Privacy Policy](privacy-policy-en)
-- [Terms of Service](terms-of-service-en)
-- [Specified Commercial Transactions Act](tokushoho-en)
+- [Privacy Policy](/grafiq-docs/privacy-policy-en/)
+- [Terms of Service](/grafiq-docs/terms-of-service-en/)
+- [Specified Commercial Transactions Act](/grafiq-docs/tokushoho-en/)
 
 ---
 
 *Last updated: March 2026*
 
 <div class="page-footer">
-  <a href="./">Home</a>
-  <a href="support-ja">日本語版</a>
-  <a href="privacy-policy-en">Privacy Policy</a>
-  <a href="terms-of-service-en">Terms of Service</a>
+  <a href="/grafiq-docs/">Home</a>
+  <a href="/grafiq-docs/support-ja/">日本語版</a>
+  <a href="/grafiq-docs/privacy-policy-en/">Privacy Policy</a>
+  <a href="/grafiq-docs/terms-of-service-en/">Terms of Service</a>
 </div>
