@@ -41,7 +41,7 @@ For questions, feedback, or bug reports, please contact us at:
 
 ### Pricing Plans
 
-| Feature | Free | Pro ($3.99 one-time) |
+| Feature | Free | Pro ($5.99 one-time) |
 |---------|------|----------------------|
 | Graphs | Up to 3 | Unlimited |
 | Chart Types | Line, bar, pie | All 5 types |
@@ -67,7 +67,7 @@ For questions, feedback, or bug reports, please contact us at:
 
 ### Q3. Is Grafiq Pro a subscription?
 
-**A.** No. Grafiq Pro is a one-time purchase of $3.99. There are no subscriptions or recurring charges. Once purchased, all Pro features are permanently unlocked and tied to your Apple ID.
+**A.** No. Grafiq Pro is a one-time purchase of $5.99. There are no subscriptions or recurring charges. Once purchased, all Pro features are permanently unlocked and tied to your Apple ID.
 
 ### Q4. Can I back up my data?
 
